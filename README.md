@@ -1,0 +1,1 @@
+This repository documents my journey to re-learn ML fundamentals by implementing important algorithms from scratch. The goal from this series is to get a better understanding of the most important ML algorithms.
